@@ -1,12 +1,12 @@
-# Travelia - Tu Guía Turística en Línea
+# Sistema de Comida Rápida 
 
-Travelia es un proyecto web diseñado como una guía turística en línea que proporciona información sobre las ciudades más concurridas por turistas en nuestro planeta. Con una interfaz simple y fácil de usar, los usuarios pueden explorar información básica sobre varias ciudades y registrarse para acceder a características adicionales.
+Este es un proyecto práctico de un sistema de comida rápida. Es una aplicación web que permite a los clientes realizar pedidos en línea y al personal del restaurante administrar los pedidos y el inventario.
 
 ## Características
 
-- Interfaz simple con información básica sobre 3 ciudades turísticas.
-- Registro e inicio de sesión de usuarios para acceder a características adicionales.
-- Potencial para expandir y agregar más funcionalidades en el futuro.
+- Interfaz de usuario para realizar pedidos en línea.
+- Sistema de administración para gestionar pedidos y el inventario del restaurante.
+- Registro e inicio de sesión para clientes y personal del restaurante.
 
 ## Tecnologías Utilizadas
 
@@ -14,7 +14,7 @@ Travelia es un proyecto web diseñado como una guía turística en línea que pr
 - JavaScript
 - PHP
 - MySQL (utilizando phpMyAdmin)
-
+  
 ## Contacto
 
 Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto conmigo en ledesmajuan884@gmail.com.
